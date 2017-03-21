@@ -1,0 +1,24 @@
+{
+  "name": "vue-img-crop",
+  "version": "1.0.0",
+  "description": "vue image crop plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Phinome/vue-img-crop.git"
+  },
+  "keywords": [
+    "vue",
+    "imageCrop",
+    "plugin"
+  ],
+  "author": "Phinome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phinome/vue-img-crop/issues"
+  },
+  "homepage": "https://github.com/Phinome/vue-img-crop#readme"
+}
